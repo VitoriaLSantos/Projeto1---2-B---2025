@@ -1,7 +1,7 @@
 .cabecalho{
-width:345px;
+    width:345px;
 height: 68px;
-background-color:#CDB79E;
+    background-color:#CDB79E;
 }
 
 .primeira_secao{
@@ -11,28 +11,28 @@ background-color:#CDB79E;
     display: flex;
     flex-direction: row;
     justify-content: ;
-    }
+}
 
-    .imagem{
-        width:54px;
-        height:96px;
-        background-color:#EED5B7;
-        }
+.imagem{
+    width:54px;
+    height:96px;
+    background-color:#EED5B7;
+}
 
-        .retangulo{
-            width:54px;
-            height:96px;
-            background-color:#EED5B7;
-            }
+.retangulo{
+    width:54px;
+    height:96px;
+    background-color:#EED5B7;
+}
 
-            .retangulo{
-                width:54px;
-                height:96px;
-                background-color:#EED5B7;
-                }
+.retangulo{
+    width:54px;
+    height:96px;
+    background-color:#EED5B7;
+}
 
-                .imagem{
-                    width:54px;
-                    height:96px;
-                    background-color:#EED5B7;
-                    }
+.imagem{
+    width:54px;
+    height:96px;
+    background-color:#EED5B7;
+}

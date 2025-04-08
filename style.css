@@ -8,6 +8,8 @@ background-color:#CDB79E;
     width:345px;
     height: 142px;
     background-color:#f0d1d1;
+    display: flex;
+    
     }
 
     .retangulo{

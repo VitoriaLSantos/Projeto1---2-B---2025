@@ -13,6 +13,12 @@ height: 68px;
     justify-content: space-between;
 }
 
+.retangulo{
+    width: 54px;
+    height: 96px;
+    background-color:#fffefd;
+}
+
 .rodape{
     width:345px;
     height: 68px;

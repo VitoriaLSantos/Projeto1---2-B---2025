@@ -6,7 +6,7 @@ height: 68px;
 
 .primeira_secao{
     width:345px;
-    height: 23px;
+    height: 96px;
     background-color:#f0d1d1;
     display: flex;
     flex-direction: row;
@@ -17,14 +17,6 @@ height: 68px;
     width:54px;
     height:96px;
     background-color:#EED5B7;
-}
-
-.segunda_secao{
-    width:345px;
-    height: 23px;
-    background-color:#f0d1d1;
-    display: flex;
-    flex-direction: row;
 }
 
 .rodape{
